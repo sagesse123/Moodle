@@ -1,0 +1,14 @@
+s:1033:"<p>Le module d'activité sondage permet à un enseignant de poser une question et de proposer un choix de réponses possibles.</p>
+
+<p>Les résultats du sondage peuvent être publiés après que les étudiants ont répondu, ou après une date, ou pas du tout. Ils peuvent être publiés avec ou sans les noms des étudiants (bien que les enseignants voient toujours les noms des étudiants et leur réponse).</p>
+
+<p>Un sondage peut être utilisé pour :</p>
+
+<ul>
+<li>une question rapide afin de stimuler la réflexion sur un thème</li>
+<li>tester la compréhension des étudiants</li>
+<li>faciliter une décision par les étudiants, en leur permettant par exemple de choisir une direction pour la suite du cours</li>
+</ul>
+
+<div class="helpdoclink"><a href="https://docs.moodle.org/400/fr/mod/choice/view" target="_blank" rel="noreferrer noopener"><i class="icon fa fa-book fa-fw iconhelp icon-pre"></i>Plus d'aide<i class="icon fa fa-external-link fa-fw fa-externallink" title="S'ouvre dans une nouvelle fenêtre"></i></a></div>
+";

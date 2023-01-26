@@ -1,0 +1,7 @@
+[Wed Jan 25 09:59:05.390674 2023] [mpm_winnt:notice] [pid 10380:tid 732] AH00455: Apache/2.4.35 (Win32) OpenSSL/1.1.1k PHP/7.4.19 configured -- resuming normal operations
+[Wed Jan 25 09:59:05.390674 2023] [mpm_winnt:notice] [pid 10380:tid 732] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 15:43:45
+[Wed Jan 25 09:59:05.390674 2023] [core:notice] [pid 10380:tid 732] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.35-win32-VC15\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.35-win32-VC15'
+[Wed Jan 25 09:59:05.406299 2023] [mpm_winnt:notice] [pid 10380:tid 732] AH00418: Parent: Created child process 11200
+[Wed Jan 25 09:59:06.847691 2023] [mpm_winnt:notice] [pid 11200:tid 720] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 25 10:17:45.203112 2023] [authz_core:error] [pid 11200:tid 1240] [client ::1:53980] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Wed Jan 25 10:25:12.868897 2023] [authz_core:error] [pid 11200:tid 1236] [client ::1:53986] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin

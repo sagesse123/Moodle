@@ -1,0 +1,3 @@
+s:531:"<p>Ce champ permet d'indiquer les expressions régulières pour le filtrage des URLs permises. L'utilisation du caractère joker « * » est possible.
+Exemples d'expressions : « exemple.fr » ou « exemple.fr/truc/* ».  L'expression « exemple.fr » correspond à « exemple.fr », « www.exemple.fr » et à « www.mail.exemple.fr ». L'expression « exemple.fr/truc/* » correspond à toutes les requêtes de tous les sous-domaines de « exemple.fr » ayant « truc » comme premier segment de chemin.</p>
+";

@@ -1,0 +1,17 @@
+s:1485:"<p>Une base de données permet aux participants de créer, afficher et rechercher une collection de fiches.</p>
+
+<p>La structure des fiches est définie à l'aide de différents types de champs, par exemple un texte court, une liste déroulante, une zone de texte, une URL, une image ou un fichier.</p>
+
+<p>Comme enseignant, vous pouvez commenter et évaluer les fiches. Vous pouvez également permettre aux étudiants d'évaluer et de commenter les fiches (évaluation par les pairs). Les évaluations peuvent être combinées pour former une note finale, enregistrée dans le carnet de notes.</p>
+
+<p>Si le filtre de liaison automatique de base de données est activé, les fiches d'une base de données seront automatiquement liées aux mots ou phrases apparaissant dans le reste du cours.</p>
+
+<p>Une activité de base de données peut être utilisée pour :</p>
+
+<ul>
+<li>construire de façon collaborative une collection de liens web, livres, recensions de livres ou d'articles, références de revues, etc.</li>
+<li>afficher des photos, posters, sites web, poèmes, etc. créés par les étudiants, en vue d'une présentation ou d'une évaluation par les pairs.</li>
+</ul>
+
+<div class="helpdoclink"><a href="https://docs.moodle.org/400/fr/mod/data/view" target="_blank" rel="noreferrer noopener"><i class="icon fa fa-book fa-fw iconhelp icon-pre"></i>Plus d'aide<i class="icon fa fa-external-link fa-fw fa-externallink" title="S'ouvre dans une nouvelle fenêtre"></i></a></div>
+";

@@ -1,0 +1,15 @@
+s:1299:"<p>Le module d'activité chat permet aux participants d'avoir une discussion synchrone en temps réel, en mode texte.</p>
+
+<p>Un chat peut être une activité unique ou peut être répété à la même heure chaque jour ou chaque semaine. Les sessions de chat sont enregistrées et peuvent être publiées pour tous ou restreintes aux utilisateurs ayant les les permissions requises.</p>
+
+<p>Les chats sont particulièrement utiles lorsque le groupe ne peut pas se rencontrer face à face, pour :</p>
+
+<ul>
+<li>des rencontres virtuelles régulières entre participants suivant un cours à distance, leur permettant de partager leurs expériences</li>
+<li>permettre à un participant temporairement empêché de participer en personne de discuter avec l'enseignant</li>
+<li>permettre à des enfants de chatter dans un environnement contrôlé comme introduction au monde des réseaux sociaux</li>
+<li>une session de questions-réponses avec un intervenant invité d'un pays éloigné</li>
+</ul>
+
+<div class="helpdoclink"><a href="https://docs.moodle.org/400/fr/mod/chat/view" target="_blank" rel="noreferrer noopener"><i class="icon fa fa-book fa-fw iconhelp icon-pre"></i>Plus d'aide<i class="icon fa fa-external-link fa-fw fa-externallink" title="S'ouvre dans une nouvelle fenêtre"></i></a></div>
+";

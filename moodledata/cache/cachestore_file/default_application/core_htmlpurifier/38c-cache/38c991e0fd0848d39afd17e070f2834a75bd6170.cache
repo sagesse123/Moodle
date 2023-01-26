@@ -1,0 +1,16 @@
+s:1097:"<p>Si ce réglage est activé, les étudiants ne peuvent ne peuvent y répondre qu'au moyen de Safe Exam Browser.
+Les options disponibles sont :</p>
+
+<ul>
+<li>Non
+<br />Safe Exam Browser n'est pas requis pour répondre au test.</li>
+<li>Oui – Utiliser un gabarit existant
+<br />Un gabarit de configuration de Safe Exam Browser peut être utilisé. Les gabarits sont gérés dans l'administration du site. Vos réglages manuels remplacent les réglages du gabarit.</li>
+<li>Oui – Configurer manuellement
+<br />Aucun gabarit de configuration de Safe Exam Browser n'est utilisé. Vous pouvez configurer Safe Exam Browser manuellement.</li>
+<li>Oui – Déposer ma propre configuration
+<br />Vous pouvez déposer votre propre fichier de configuration Safe Exam Browser. Tous les réglages manuels et l'utilisation des gabarits sont désactivés.</li>
+<li>Oui – Utiliser la configuration du client SEB
+<br />Aucune configuration de Safe Exam Browser n'est effectuée du côté Moodle. Les étudiants peuvent répondre au test avec n'importe quelle configuration de Safe Exam Browser.</li>
+</ul>
+";
